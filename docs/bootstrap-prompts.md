@@ -84,4 +84,23 @@ Important:
 bootstrap a basic python project using python 3.12, asdf, uv
 ```
 
+Results: https://github.com/MacPhobos/wallabag_to_karakeep/commit/1a087415d587f419c297421a49adc79e1afc0233
+
+
+# Use claude-mpm to research and implement the wallabag to karakeep converter tool
+
+Paste the prior chatgpt generated prompt into claude-mpm to research and implement it. 
+
+Results: https://github.com/MacPhobos/wallabag_to_karakeep/commit/cb2cd5a0ecb756f8e05221a7119523a6ef0293ec
+
+# Generate a README.md for the wallabag2karakeep tool
+
+claude-mpm prompt: 
+
+```
+create a concise README.md which briefly describes the project, provides concise quitestart instructions on how to initialize it using asdf and uv sync, and how to run some
+  simple commands.
+```
+
+Results: https://github.com/MacPhobos/wallabag_to_karakeep/commit/9fc7878d3969a83fb64f352b39bb8f20418a2e16
 
